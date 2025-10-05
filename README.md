@@ -10,7 +10,7 @@ A **multi-service immigration and consulting hub** that helps newcomers, student
 
 Think of it as a **one-stop online platform** that combines resources, guidance, and direct services in one place.
 
-## Milestones 
+## Milestones
 
 ## 🗓 1.5-Month Website Development Timeline
 
@@ -20,6 +20,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 1 – Planning & Design**
+
 - Finalize project scope and MVP features.
 - Wireframe main pages: Landing, Services, About, Contact.  
 - Decide on tech stack (frontend, backend, database).  
@@ -29,6 +30,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 2 – Landing Page & Service Overview**
+
 - Build homepage with mission statement and CTA.
 - Create navigation bar and link to placeholder pages.  
 - Add Service overview sections (Immigration, Education, Housing, Finance, Life Coaching).  
@@ -38,6 +40,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 3 – Service Details & Content**
+
 - Develop dedicated service pages with clear explanations.  
 - Add pricing placeholders or “Contact for quote.”  
 - Include Testimonials placeholder.  
@@ -46,6 +49,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 4 – Client Intake & Contact**
+
 - Implement Contact Form and Client Intake Form.
 - Set up email notifications for submissions.  
 - Integrate calendar booking (Microsoft Bookings, Calendly, or Outlook).  
@@ -54,6 +58,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 5 – Back-End & Admin Workflow**
+
 - Admin login page for viewing submissions.
 - Export data functionality (CSV/Excel).  
 - Implement basic reporting dashboard (service demand, client types).  
@@ -62,6 +67,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Week 6 – Final Touches & Testing**
+
 - Complete About Us page and contact details.
 - Add Privacy Policy & Terms of Service templates.  
 - Test full user journey (landing → service → form → booking).  
@@ -71,6 +77,7 @@ This will clearly show out teammate what to focus on in each sprint so the MVP i
 ---
 
 ## **Future Phases (Post-MVP)**
+
 - Payment integration (Stripe, PayPal).  
 - Referral partner integration (schools, banks, recruiters).  
 - Client portal for case tracking.  
