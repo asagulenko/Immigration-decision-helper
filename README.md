@@ -21,20 +21,3 @@ A student project for the MIT Emerging Talent program — building a simple web 
 
 Group project for the MIT Emerging Talent Program
 Contributors: Semira, Meklit, Anna
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/immigration-ml-project.git
-cd immigration-ml-project
-
-# Run backend
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-# Run frontend
-cd ../frontend
-npm install
-npm run dev
